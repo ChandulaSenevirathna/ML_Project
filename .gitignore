@@ -1,0 +1,6 @@
+# Enviroments
+
+venv/
+
+# Ignore .egg-info directories
+*.egg-info/
